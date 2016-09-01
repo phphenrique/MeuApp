@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import br.usjt.meuprimeiroapp.R;
+import br.usjt.meuapp.R;
 
 public class DisplayMessageActivity extends AppCompatActivity {
 

@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 
-import br.usjt.meuprimeiroapp.R;
+import br.usjt.meuapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
